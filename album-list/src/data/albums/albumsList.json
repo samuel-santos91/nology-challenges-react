@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Unplugged MTV",
+    "band": "Alice In Chains",
+    "rating": 4.5,
+    "imgPath": "/assets/images/alice.jpg"
+  },
+  {
+    "title": "I,m With You",
+    "band": "Red Hot Chilli Peppers",
+    "rating": 4.4,
+    "imgPath": "/assets/images/rhcp.webp"
+  },
+  {
+    "title": "Nightmare",
+    "band": "Avenged Sevenfold",
+    "rating": 4.8,
+    "imgPath": "/assets/images/nightmare.webp"
+  },
+  {
+    "title": "Unplugged MTV",
+    "band": "Pearl Jam",
+    "rating": 5,
+    "imgPath": "/assets/images/pearlJam.jpg"
+  },
+  {
+    "title": "Where The Light Is",
+    "band": "John Mayer",
+    "rating": 4.8,
+    "imgPath": "/assets/images/johnMayer.jpeg"
+  },
+  {
+    "title": "The Battle of Los Angeles",
+    "band": "Rage Against The Machine",
+    "rating": 5,
+    "imgPath": "/assets/images/rageAgainst.webp"
+  },
+  {
+    "title": "The Second Law",
+    "band": "Muse",
+    "rating": 4,
+    "imgPath": "/assets/images/muse.jpeg"
+  },
+  {
+    "title": "Depois da Guerra",
+    "band": "Oficina G3",
+    "rating": 4.4,
+    "imgPath": "/assets/images/oficina.jpeg"
+  }
+]

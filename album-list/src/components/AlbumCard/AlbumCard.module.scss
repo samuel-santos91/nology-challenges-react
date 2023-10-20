@@ -1,0 +1,49 @@
+.card {
+  position: relative;
+  text-align: left;
+  width: 13rem;
+  height: 13rem;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 3px 3px 8px black;
+  background-color: rgb(29, 29, 29);
+  overflow: hidden;
+
+  &__img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    img {
+      width: 17rem;
+      height: 17rem;
+      border-radius: 10px;
+    }
+
+    &:hover {
+      opacity: 0.1;
+    }
+  }
+
+  &__info {
+    font-weight: bold;
+    color: white;
+  }
+
+  &__top-rating {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    background-color: rgb(211, 61, 61);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    width: 25rem;
+  }
+
+  &:hover {
+    .card__top-rating {
+      display: none;
+    }
+  }
+}

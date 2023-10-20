@@ -1,0 +1,23 @@
+.card {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 30rem;
+  height: 16rem;
+  box-shadow: 3px 3px 10px black;
+
+  &__business {
+    &--logo {
+      width: 8rem;
+      height: 8rem;
+      object-fit: cover;
+    }
+  }
+
+  &__contact {
+    text-align: left;
+    font-size: 0.7rem;
+  }
+}
